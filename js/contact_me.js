@@ -28,7 +28,8 @@ $(function() {
                     name: name,
                     phone: phone,
                     email: email,
-                    message: message
+                    message: message,
+                    _next: "index.html"
                 },
                 cache: false,
                 success: function() {
