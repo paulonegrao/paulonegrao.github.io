@@ -177,12 +177,12 @@
                     <!-- <form name="sentMessage" id="contactForm" novalidate> -->
                     <form action="https://formspree.io/paulo.negrao@ymail.com"
       method="POST">
-    <input type="text" name="name">
+    <!-- <input type="text" name="name">
     <input type="email" name="_replyto">
     <input type="hidden" name="_next" value="index.html" />
     <input type="submit" value="Send">
-</form>
-                        <!-- <div class="row control-group">
+</form> -->
+                        <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Name</label>
                                 <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
@@ -211,13 +211,14 @@
                             </div>
                         </div>
                         <br>
+                        <input type="hidden" name="_next" value="index.html#success" />
                         <div id="success"></div>
                         <div class="row">
                             <div class="form-group col-xs-12">
                                 <button type="submit" class="btn btn-success btn-lg">Send</button>
                             </div>
                         </div>
-                    </form> -->
+                    </form>
                 </div>
             </div>
         </div>
