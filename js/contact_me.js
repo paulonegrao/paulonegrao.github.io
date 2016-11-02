@@ -22,7 +22,7 @@ $(function() {
             }
             $.ajax({
                 // url: "././mail/contact_me.php",
-                url: "formspree.io/paulo.negrao@ymail.com",
+                url: "https://formspree.io/paulo.negrao@ymail.com",
                 type: "POST",
                 data: {
                     name: name,
