@@ -1,6 +1,6 @@
 # My Personal Website
 This is a brief repository with some info about myself. 
-To simplify the process, I used a startbootstrap.com template as described bellow. To acces my website, please use the folowing link:
+To simplify the process, I used a startbootstrap.com template as described bellow. To acces my website, please use the following link:
 
 **[Paulo Negrao Website](https://paulonegrao.github.io/) or https://paulonegrao.github.io/**
 
