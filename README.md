@@ -3,7 +3,7 @@ This is a brief repository with some info about myself.
 To simplify the process, I used a startbootstrap.com template as described bellow. To acces my website, please use the following link:
 
 **[Paulo Negrao Website](https://paulonegrao.github.io/) or https://paulonegrao.github.io/**
-![Paulo Negrao Website](https://github.com/paulonegrao/paulonegrao.github.io/blob/master/img/myspot.png?raw=true)(https://paulonegrao.github.io/)
+[![Paulo Negrao Website](https://github.com/paulonegrao/paulonegrao.github.io/blob/master/img/myspot.png?raw=true)](https://paulonegrao.github.io/)
 
 ## [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
