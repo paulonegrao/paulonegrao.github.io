@@ -59,3 +59,9 @@
 .icon-raspberry-pi:before {
   content: "\67";
 }
+.icon-arjs:before {
+  content: "\68";
+}
+.icon-restapi:before {
+  content: "\69";
+}
